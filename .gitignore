@@ -2,3 +2,4 @@
 .project
 log/
 db/schema.rb
+db/test.sqlite3
