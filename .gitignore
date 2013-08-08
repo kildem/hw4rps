@@ -1,3 +1,4 @@
 .bundle/
 .project
 log/
+db/schema.rb
