@@ -1,0 +1,229 @@
+--- 
+RSpec: 
+  :original_result: 
+    /home/ubuntu/Documents/hw4rps/app/controllers/application_controller.rb: 
+    - 1
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4rps/app/helpers/application_helper.rb: 
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4rps/app/helpers/movies_helper.rb: 
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /home/ubuntu/Documents/hw4rps/app/controllers/movies_controller.rb: 
+    - 1
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4rps/app/models/movie.rb: 
+    - 1
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 
+  :created_at: 2013-08-09 07:02:51.534325 -07:00
+"/usr/local/bin/rspec ": 
+  :original_result: 
+    /home/ubuntu/Documents/hw4rps/app/controllers/application_controller.rb: 
+    - 1
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4rps/app/helpers/application_helper.rb: 
+    - 1
+    - 
+    /home/ubuntu/Documents/hw4rps/app/helpers/movies_helper.rb: 
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /home/ubuntu/Documents/hw4rps/app/controllers/movies_controller.rb: 
+    - 1
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 0
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 
+    - 
+    - 
+    /home/ubuntu/Documents/hw4rps/app/models/movie.rb: 
+    - 1
+    - 1
+    - 0
+    - 
+    - 
+    - 1
+    - 
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 
+    - 0
+    - 
+    - 
+    - 
+  :created_at: 2013-08-09 07:09:22.789897 -07:00
