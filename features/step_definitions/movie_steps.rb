@@ -6,3 +6,7 @@ Given /the following movies exist/ do |movies_table|
   end
   assert (Movie.count >= movies_table.hashes.count), "Error initializing DB"
 end
+Then /^the director of "([^"]*)" should be "([^"]*)"$/ do |title, director|
+  movie = Movie.find_by_title(title)
+  movie.director.should == director
+end
