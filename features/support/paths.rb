@@ -14,7 +14,7 @@ module NavigationHelpers
     case page_name
 
     when /^the home\s?page$/
-      '/'
+      '/movies'
 
     when /^the (edit|details) page for "(.*)"$/
       movie = Movie.find_by_title($2)
